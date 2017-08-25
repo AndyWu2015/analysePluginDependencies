@@ -1,0 +1,8 @@
+/build
+bin/
+rebel.xml
+/target
+/.settings/
+/.project
+/.classpath
+.gradle
